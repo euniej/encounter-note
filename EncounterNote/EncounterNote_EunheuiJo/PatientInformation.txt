@@ -1,0 +1,2 @@
+1|Jane|2023-04-04 10:29:46 PM|Overweight|T: 38;BP: 120/70;;fever, need to consult with ....;;;;|
+2|Kay|2023-04-21 10:29:46 PM|fever;soar throat;|He needs to take COVID test;;T 39;BP: 70/50;HR:14;;;|
