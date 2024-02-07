@@ -6,8 +6,10 @@ Clinical Encounter Notes Application
 
 
 
-[Introduction]
-: This project aims to develop a clinical encounter notes application that allows users to create, edit, read, and delete clinical encounter notes stored in a text file. 
+[Introduction] 
+
+This project aims to develop a clinical encounter notes application that allows users to create, edit, read, and delete clinical encounter notes stored in a text file. 
+
 
 [Core Functionality]
 1. Load Past Notes:
