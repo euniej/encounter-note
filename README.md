@@ -45,3 +45,12 @@ This project aims to develop a clinical encounter notes application that allows 
    - Ensure the note ID is unique and pre-assigned by the application.
    - Require patient name, date of birth (cannot be in the future), and clinical note content.
 
+[Skills Required]
+
+- Proficiency in C# programming language.
+- Knowledge of ADO.NET or Entity Framework for database access in C#.
+- Understanding of SQL and relational database concepts.
+- Familiarity with Azure services and cloud computing.
+- Ability to configure and manage Azure SQL Database instances.
+- Experience in error handling and data validation techniques.
+- Strong problem-solving skills for troubleshooting database connectivity and performance issues.
