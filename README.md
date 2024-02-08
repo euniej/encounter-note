@@ -1,4 +1,4 @@
-Clinical Encounter Notes Application
+# Clinical Encounter Notes Application
 
 
 
@@ -6,12 +6,12 @@ Clinical Encounter Notes Application
 
 
 
-[Introduction] 
+## [Introduction] 
 
 This project aims to develop a clinical encounter notes application that allows users to create, edit, read, and delete clinical encounter notes stored in a text file. 
 
 
-[Core Functionality]
+## [Core Functionality]
 1. Load Past Notes:
    - Upon starting the application, load previously stored encounter notes from an Asure SQL database and display them in a listbox on the left-hand side, showing only the patient name and note ID.
    - Place the right-hand side (Add/Edit/Delete Encounter Note) in "awaiting note mode" by turning off most controls.
@@ -45,7 +45,7 @@ This project aims to develop a clinical encounter notes application that allows 
    - Ensure the note ID is unique and pre-assigned by the application.
    - Require patient name, date of birth (cannot be in the future), and clinical note content.
 
-[Skills Required]
+## [Skills Required]
 
 - Proficiency in C# programming language.
 - Knowledge of ADO.NET or Entity Framework for database access in C#.
